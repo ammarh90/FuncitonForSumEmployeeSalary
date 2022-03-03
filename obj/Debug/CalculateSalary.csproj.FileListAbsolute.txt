@@ -1,0 +1,8 @@
+C:\Users\ammar\source\repos\CalculateSalary\bin\Debug\CalculateSalary.exe.config
+C:\Users\ammar\source\repos\CalculateSalary\bin\Debug\CalculateSalary.exe
+C:\Users\ammar\source\repos\CalculateSalary\bin\Debug\CalculateSalary.pdb
+C:\Users\ammar\source\repos\CalculateSalary\obj\Debug\CalculateSalary.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\CalculateSalary\obj\Debug\CalculateSalary.csproj.SuggestedBindingRedirects.cache
+C:\Users\ammar\source\repos\CalculateSalary\obj\Debug\CalculateSalary.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\CalculateSalary\obj\Debug\CalculateSalary.exe
+C:\Users\ammar\source\repos\CalculateSalary\obj\Debug\CalculateSalary.pdb
